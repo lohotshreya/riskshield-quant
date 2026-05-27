@@ -16,5 +16,5 @@ Standard Modern Portfolio Theory (MPT) relies heavily on expected return trackin
 
 1. **Clone the Repo:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/riskshield-quant.git](https://github.com/YOUR_USERNAME/riskshield-quant.git)
+   git clone [https://github.com/lohotshreya/riskshield-quant.git](https://github.com/lohotshreya/riskshield-quant.git)
    cd riskshield-quant
